@@ -402,5 +402,3 @@ Day 100
 Best Time to Buy and Sell Stock
  
 
-Talk to our Industry Experts for Career Counselling
-Enter your email 
