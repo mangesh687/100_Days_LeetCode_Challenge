@@ -21,7 +21,9 @@ public class TribonacciNumber {
 			System.out.print(fourth+" ");
 			
 		}
-		
+	//ENTER THE NUMBER
+	//	7
+	//	0 1 1 2 4 7 13 	
 		
 		
 	}
