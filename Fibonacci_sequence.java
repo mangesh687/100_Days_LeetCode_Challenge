@@ -16,6 +16,10 @@ public class Fibonacci_sequence {
 			second=third;
 			System.out.print(third+" ");
 		}
+		
+//		enter the number
+//		7
+//		0 1 1 2 3 5 8
 	}
 
 }

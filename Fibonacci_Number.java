@@ -23,6 +23,9 @@ public class Fibonacci_Number {
 			
 		}
 		System.out.println(third);
+//		enter the number
+//		5
+//		8
 	}
 
 }
