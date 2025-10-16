@@ -9,7 +9,7 @@ public static void main(String[] args) {
 //
 //	The operation of drinking a full water bottle turns it into an empty bottle.
 //
-//	Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
+//Given the two integers numBottles and numExchange, return the maximum number of water bottles you can drink.
 	Scanner sc=new Scanner(System.in);
 	System.out.println("enter the number of numbottles");
 	int numBottles=sc.nextInt();
